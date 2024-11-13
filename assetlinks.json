@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.dyanamiclink",
+      "sha256_cert_fingerprints": [
+        "B8:02:45:54:A2:14:2D:BF:5B:58:0F:3A:C3:DF:E7:7E:D7:EA:EE:0E:7C:A0:7B:9F:8D:BE:1E:A8:22:98:1C:E1",
+        "DEBUG:B8:02:45:54:A2:14:2D:BF:5B:58:0F:3A:C3:DF:E7:7E:D7:EA:EE:0E:7C:A0:7B:9F:8D:BE:1E:A8:22:98:1C:E1"
+      ]
+    }
+  }
+]
